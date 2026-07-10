@@ -1,5 +1,6 @@
 # Farseer-Solution-MEDUSA-LoE4-Prototype
 Farseer Solution: MEDUSA-LoE4-Prototype.
+
 MEDUSA is designed specifically around the needs outlined in the DIU solicitation. The LoE4 prototype demonstrates the core behaviours required for rapid ISR processing, modularity, timing integrity, and mission‑driven decision support.
 
 1. Modular Open Architecture
